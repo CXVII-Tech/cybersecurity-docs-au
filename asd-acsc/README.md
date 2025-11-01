@@ -1,0 +1,279 @@
+# Australian Signals Directorate Public Documentation
+Cyber security documentation published by ASD.
+
+Last updated: 31 Oct 2025
+
+Source documentation listed according to [cyber.gov.au](https://www.cyber.gov.au/) sitemap structure:
+- Home
+    - [Protect yourself from scams](https://www.cyber.gov.au/scams)
+    - [Cyber health check tool](https://www.cyber.gov.au/cyberhealthcheck)
+    - [Cyber Security Awareness Month 2025](https://www.cyber.gov.au/cam2025)
+    - [Ransomware Playbook](https://www.cyber.gov.au/ransomware-playbook)
+    - [Become an ASD partner](https://www.cyber.gov.au/become-asd-partner)
+    - [Top tips for cyber security poster (A4) PDF (463KB)](https://www.cyber.gov.au//sites/default/files/2023-07/2023_ACSC_Top%20tips%20for%20cyber%20security%20poster%20A4.pdf)
+- About us
+    - [Who we are](https://www.cyber.gov.au/about-us/about-asd-acsc/who-we-are)
+    - [Sign up for alerts](https://www.cyber.gov.au/about-us/register)
+    - [Contact us](https://www.cyber.gov.au/about-us/about-asd-acsc/contact-us)
+    - View all content
+        - [Alerts and advisories](https://www.cyber.gov.au/about-us/view-all-content/alerts-and-advisories)
+        - [Advice, guidance and publications](https://www.cyber.gov.au/about-us/view-all-content/advice-guidance-publications)
+        - Reports and statistics
+            - [Annual Cyber Threat Report 2024-2025](https://www.cyber.gov.au/about-us/view-all-content/reports-and-statistics/annual-cyber-threat-report-2024-2025)
+            - [The Commonwealth Cyber Security Posture in 2024](https://www.cyber.gov.au/about-us/view-all-content/reports-and-statistics/commonwealth-cyber-security-posture-2024)
+            - [Annual Cyber Threat Report 2023-2024](https://www.cyber.gov.au/about-us/view-all-content/reports-and-statistics/annual-cyber-threat-report-2023-2024)
+            - [Archived reports and statistics](https://www.cyber.gov.au/about-us/view-all-content/reports-and-statistics/archive)
+        - [News](https://www.cyber.gov.au/about-us/view-all-content/news)
+- Learn the basics
+    - Small business
+        - [Small business cyber security guide (January 2025) PDF (2.2MB)](https://www.cyber.gov.au//sites/default/files/2025-03/Small%20business%20cybersecurity%20guide%20%28January%202025%29.pdf)
+        - [Small business cyber security checklist (June 2023) PDF (313KB)](https://www.cyber.gov.au//sites/default/files/2025-03/Small%20business%20cyber%20security%20checklist%20%28June%202023%29.pdf)
+        - [Educational pack for small businesses](https://www.cyber.gov.au/learn-basics/explore-basics/small-business/educational-pack)
+    - Seniors
+        - [How to Use the Internet Securely: A Guide for Seniors PDF (1.69MB)](https://www.cyber.gov.au//sites/default/files/2025-06/2025_ACSC_How_to_us_the_internet_securely_A_guide_for_seniors.pdf)
+        - [A Guide for Seniors - Summary Checklist PDF (401KB)](https://www.cyber.gov.au//sites/default/files/2023-06/ACSC-How-to-Use-the-Internet-Securely-Seniors-Summary-Checklist.pdf)
+        - [Educational pack for seniors](https://www.cyber.gov.au/learn-basics/explore-basics/seniors/educational-pack)
+    - [Glossary](https://www.cyber.gov.au/learn-basics/view-resources/glossary)
+    - [Resources library](https://www.cyber.gov.au/learn-basics/view-resources/resources-library)
+- Protect yourself
+    - [Easy steps to secure yourself online](https://www.cyber.gov.au/protect-yourself/easy-steps-secure-yourself-online)
+    - Passphrases
+        - [Creating Strong Passphrases](https://www.cyber.gov.au/protect-yourself/securing-your-accounts/passphrases/creating-strong-passphrases)
+    - [Passkeys](https://www.cyber.gov.au/protect-yourself/secure-your-accounts/passkeys)
+    - [Password managers](https://www.cyber.gov.au/protect-yourself/securing-your-accounts/password-managers)
+    - How to secure your devices
+        - [Antivirus software](https://www.cyber.gov.au/protect-yourself/securing-your-devices/how-secure-your-device/antivirus-software)
+        - [How to dispose of your device securely](https://www.cyber.gov.au/protect-yourself/securing-your-devices/how-secure-your-device/how-dispose-your-device-securely)
+        - [Internet of Things devices](https://www.cyber.gov.au/protect-yourself/securing-your-devices/how-secure-your-devices/internet-things-devices)
+        - [Introduction to connected vehicles](https://www.cyber.gov.au/protect-yourself/securing-your-devices/how-secure-your-devices/introduction-to-connected-vehicles)
+        - [Secure your Apple macOS device](https://www.cyber.gov.au/protect-yourself/securing-your-devices/how-secure-your-devices/secure-your-apple-macos-device)
+        - [Secure your Microsoft Windows device](https://www.cyber.gov.au/protect-yourself/securing-your-devices/how-secure-your-devices/secure-your-microsoft-windows-device)
+        - [Secure your mobile phone](https://www.cyber.gov.au/protect-yourself/securing-your-devices/how-secure-your-devices/secure-your-mobile-phone)
+        - [Secure your NAS device](https://www.cyber.gov.au/protect-yourself/securing-your-devices/how-secure-your-devices/secure-your-nas-device)
+    - [How to back up your files and devices](https://www.cyber.gov.au/protect-yourself/securing-your-devices/how-back-up-your-files-and-devices)
+    - [How to update your device and software](https://www.cyber.gov.au/protect-yourself/securing-your-devices/how-update-your-device-and-software)
+    - Email security
+        - [Secure your email](https://www.cyber.gov.au/protect-yourself/securing-your-email/email-security/secure-your-email)
+        - [Preventing business email compromise](https://www.cyber.gov.au/protect-yourself/securing-your-email/email-security/preventing-business-email-compromise)
+    - Connecting with others online
+        - [Secure your social media](https://www.cyber.gov.au/protect-yourself/staying-secure-online/connecting-others-online/secure-your-social-media)
+        - [Security tips for online gaming](https://www.cyber.gov.au/protect-yourself/staying-secure-online/connecting-others-online/security-tips-online-gaming)
+    - [Protecting your family](https://www.cyber.gov.au/protect-yourself/resources-protect-yourself/protecting-your-family)
+    - [Online shopping](https://www.cyber.gov.au/protect-yourself/staying-secure-online/shopping-and-banking-online/online-shopping)
+    - [Connecting to public Wi-Fi and hotspots](https://www.cyber.gov.au/protect-yourself/staying-secure-online/connecting-to-public-wi-fi)
+    - [Secure your Wi-Fi and router](https://www.cyber.gov.au/protect-yourself/staying-secure-online/secure-your-wifi-and-router)
+    - [Cyber security for charities and not-for-profits](https://www.cyber.gov.au/protect-yourself/staying-secure-online/cyber-security-for-charities-and-not-for-profits)
+    - Personal cyber security guides
+        - [Personal cyber security: First steps guide](https://www.cyber.gov.au/protect-yourself/resources-protect-yourself/personal-cyber-security-guides/personal-cyber-security-first-steps)
+        - [Personal cyber security: Next steps guide](https://www.cyber.gov.au/protect-yourself/resources-protect-yourself/personal-cyber-security-guides/personal-cyber-security-next-steps)
+        - [Personal cyber security: Advanced steps guide](https://www.cyber.gov.au/protect-yourself/resources-protect-yourself/personal-cyber-security-guides/personal-cybersecurity-advanced-steps)
+        - [How to use the internet securely: A guide for seniors](https://www.cyber.gov.au/protect-yourself/resources-protect-yourself/personal-cyber-security-guides/seniors-guide)
+        - [Protect yourself: Updates](https://www.cyber.gov.au/protect-yourself/resources-protect-yourself/personal-cyber-security-guides/protect-yourself-updates)
+        - [Protect yourself: Multi-factor authentication](https://www.cyber.gov.au/protect-yourself/resources-protect-yourself/personal-cyber-security-guides/protect-yourself-multi-factor-authentication)
+    - [Secure your user account](https://www.cyber.gov.au/protect-yourself/securing-your-devices/how-secure-your-device/secure-your-user-account)
+    - [Security tips for remote working](https://www.cyber.gov.au/protect-yourself/staying-secure-online/security-tips-remote-working)
+    - [Security tips for travelling](https://www.cyber.gov.au/protect-yourself/resources-protect-yourself/security-tips-travelling)
+- Threats
+    - [Account compromise](https://www.cyber.gov.au/threats/types-threats/account-compromise)
+    - [Business email compromise](https://www.cyber.gov.au/threats/types-threats/business-email-compromise)
+    - [Cryptomining](https://www.cyber.gov.au/threats/types-threats/cryptomining)
+    - [Data breaches](https://www.cyber.gov.au/threats/types-threats/data-breaches)
+    - [Hacking](https://www.cyber.gov.au/threats/types-threats/hacking)
+    - [Identity theft](https://www.cyber.gov.au/threats/types-threats/identity-theft)
+    - [Information stealer](https://www.cyber.gov.au/threats/types-threats/malware/information-stealer-malware)
+    - [Malicious insiders](https://www.cyber.gov.au/threats/types-threats/malicious-insiders)
+    - [Malware](https://www.cyber.gov.au/threats/types-threats/malware)
+    - [Phishing](https://www.cyber.gov.au/threats/types-threats/phishing)
+    - [Quishing](https://www.cyber.gov.au/threats/types-threats/quishing)
+    - [Scams](https://www.cyber.gov.au/threats/types-threats/scams)
+    - [Social engineering](https://www.cyber.gov.au/threats/types-threats/social-engineering)
+- Report and recover
+    - [Report a cybercrime, incident or vulnerability](https://www.cyber.gov.au/report-and-recover/report)
+    - [Cybercrime - getting help](https://www.cyber.gov.au/report-and-recover/where-get-help)
+    - [Single Reporting Portal](https://www.cyber.gov.au/report-and-recover/single-reporting-portal)
+    - [ASD’s role in cyber security: For legal practitioners](https://www.cyber.gov.au/report-and-recover/how-we-help-during-a-cyber-security-incident/asds-role-in-cyber-security-for-legal-practitioners)
+    - [Supporting Australian organisations through a cyber security incident](https://www.cyber.gov.au/report-and-recover/how-we-help-during-a-cyber-security-incident/supporting-australian-organisations-through-cyber-security-incident)
+    - [Limited Use](https://www.cyber.gov.au/report-and-recover/how-we-help-during-a-cyber-security-incident/limited-use)
+    - [Account compromise](https://www.cyber.gov.au/report-and-recover/recover-from/account-compromise)
+    - Report and recover from business email compromise
+        - [Email attacks: Prevention Guide PDF (832KB)](https://www.cyber.gov.au/sites/default/files/2023-04/Email%20attacks_Prevention%20Guide.pdf)
+        - [Email attacks: Emergency Response Guide PDF (876KB)](https://www.cyber.gov.au/sites/default/files/2023-04/Email%20attacks_Emergency%20Response%20Guide.pdf)
+        - [Review your email account security](https://www.cyber.gov.au/report-and-recover/recover-from/business-email-compromise/review-your-email-account-security)
+    - [Data breaches](https://www.cyber.gov.au/report-and-recover/recover-from/data-breaches)
+    - [Have you been hacked?](https://www.cyber.gov.au/report-and-recover/so-you-think-you-have-been-hacked)
+    - [Malware](https://www.cyber.gov.au/report-and-recover/recover-from/malware)
+    - Report and recover from ransomware
+        - [ACSC Ransomware Emergency Response: One Page Guide PDF (1.04MB)](https://www.cyber.gov.au/sites/default/files/2023-03/ACSC_Ransomware_Emergency_Response_One_Page_Guide.pdf)
+        - [Protect yourself from ransomware](https://www.cyber.gov.au/report-and-recover/recover-from/ransomware/protect-yourself-from-ransomware)
+- For business and govnernment
+    - Information security manual
+        - [Information security manual (September 2025) PDF (2.17MB)](https://www.cyber.gov.au/sites/default/files/2025-09/Information%20security%20manual%20%28September%202025%29.pdf)
+        - [ISM September 2025 changes (September 2025) PDF (728KB)](https://www.cyber.gov.au/sites/default/files/2025-09/ISM%20September%202025%20changes%20%28September%202025%29.pdf)
+        - [System security plan annex template (September 2025) XLSX (156KB)](https://www.cyber.gov.au/sites/default/files/2025-09/System%20security%20plan%20annex%20template%20%28September%202025%29.xlsx)
+        - [Cloud controls matrix template (September 2025) XLSX (199KB)](https://www.cyber.gov.au/sites/default/files/2025-09/Cloud%20controls%20matrix%20template%20%28September%202025%29.xlsx)
+        - [Using the information security manual](https://www.cyber.gov.au/business-government/asds-cyber-security-frameworks/ism/using-the-information-security-manual)
+        - [Cybersecurity principles](https://www.cyber.gov.au/business-government/asds-cyber-security-frameworks/ism/cybersecurity-principles)
+        - [Cybersecurity guidelines](biz/cybersecurity-guidelines.md)
+        - [Cybersecurity terminology](https://www.cyber.gov.au/business-government/asds-cyber-security-frameworks/ism/cybersecurity-terminology)
+        - [Archived ISM releases](https://www.cyber.gov.au/business-government/asds-cyber-security-frameworks/ism/archived-ism-releases)
+        - [ISM OSCAL releases](biz/ism-oscal.md)
+        - [ISM feedback form](https://www.cyber.gov.au/business-government/asds-cyber-security-frameworks/ism/ism-feedback-form)
+    - Essential Eight
+        - [Essential Eight explained](https://www.cyber.gov.au/business-government/asds-cyber-security-frameworks/essential-eight/essential-eight-explained)
+        - [Essential Eight assessment process guide](https://www.cyber.gov.au/business-government/asds-cyber-security-frameworks/essential-eight/essential-eight-assessment-process-guide)
+        - [Essential Eight maturity model](https://www.cyber.gov.au/business-government/asds-cyber-security-frameworks/essential-eight/essential-eight-maturity-model)
+        - [Essential Eight maturity model changes](https://www.cyber.gov.au/business-government/asds-cyber-security-frameworks/essential-eight/essential-eight-maturity-model-changes)
+        - [Essential Eight maturity model FAQ](https://www.cyber.gov.au/business-government/asds-cyber-security-frameworks/essential-eight/essential-eight-maturity-model-faq)
+        - [Essential Eight maturity model and ISM mapping](https://www.cyber.gov.au/business-government/asds-cyber-security-frameworks/essential-eight/essential-eight-maturity-model-and-ism-mapping)
+        - [Essential Eight assessment course](https://www.cyber.gov.au/business-government/asds-cyber-security-frameworks/essential-eight/essential-eight-assessment-course)
+    - Gateway security guidance package
+        - [Gateway security guidance package: Overview](https://www.cyber.gov.au/business-government/asds-cyber-security-frameworks/gateway-security-guidance-package/overview)
+        - [Gateway security guidance package: Executive guidance](https://www.cyber.gov.au/business-government/asds-cyber-security-frameworks/gateway-security-guidance-package/executive-guidance)
+        - [Gateway security guidance package: Gateway security principles](https://www.cyber.gov.au/business-government/asds-cyber-security-frameworks/gateway-security-guidance-package/gateway-security-principles)
+        - [Gateway security guidance package: Gateway operations and management](https://www.cyber.gov.au/business-government/asds-cyber-security-frameworks/gateway-security-guidance-package/gateway-operations-management)
+        - [Gateway security guidance package: Gateway technology guides](https://www.cyber.gov.au/business-government/asds-cyber-security-frameworks/gateway-security-guidance-package/gateway-technology-guides)
+    - Mitigating cyber security incidents
+        - [Strategies to mitigate cybersecurity incidents](https://www.cyber.gov.au/business-government/asds-cyber-security-frameworks/mitigating-cyber-security-incidents/strategies-to-mitigate-cybersecurity-incidents)
+        - [Strategies to mitigate cybersecurity incidents: Mitigation details](https://www.cyber.gov.au/business-government/asds-cyber-security-frameworks/mitigating-cyber-security-incidents/strategies-to-mitigate-cybersecurity-incidents-mitigation-details)
+    - Artificial intelligence
+        - [**An introduction to artificial intelligence**  
+        Artificial intelligence (AI) is an emerging technology that will play an increasingly influential role in the everyday life of Australians.](https://www.cyber.gov.au/business-government/secure-design/artificial-intelligence/an-introduction-to-artificial-intelligence)
+        - [**AI data security**  This publication provides essential data security guidance for organisations that develop and/or use AI systems, including businesses, government and critical infrastructure. It highlights the importance of data security in ensuring the accuracy and integrity of AI outcomes, and presents an in-depth examination of 3 areas of data security risks in AI systems: data supply chain, maliciously modified (poisoned) data, and data drift.](https://www.cyber.gov.au/business-government/secure-design/artificial-intelligence/ai-data-security)
+        - [**Artificial intelligence and machine learning: Supply chain risks and mitigations**  This guidance is intended for organisations and staff that deploy or develop AI or ML systems and components.](https://www.cyber.gov.au/business-government/secure-design/artificial-intelligence/artificial-intelligence-and-machine-learning)
+        - [**Content credentials: Strengthening multimedia integrity in the generative AI era**  This cybersecurity information sheet discusses how Content Credentials (especially Durable ones) can be valuable to protect the provenance of media, raises awareness of the state of this solution, provides recommended practices to ensure the preservation of provenance, and discusses the importance of widespread adoption across the information ecosystem.](https://www.cyber.gov.au/business-government/secure-design/artificial-intelligence/content-credentials-strengthening-multimedia-integrity-in-generative-ai-era)
+        - [**Convoluted layers: An artificial intelligence primer**  Rapid advances in artificial intelligence (AI), along with public releases of AI products, have prompted governments, businesses and criminals to accelerate efforts to incorporate this new technology into their operations. This advice provides definitions for some of the most commonly encountered AI terms in cybersecurity and a brief typology of cyber threats that will arise from AI.](https://www.cyber.gov.au/business-government/secure-design/artificial-intelligence/convoluted-layers-artificial-intelligence-primer)
+        - [**Deploying AI systems securely**  AI security is a rapidly evolving area of research. As agencies, industry, and academia discover potential weaknesses in AI technology and techniques to exploit them, organizations will need to update their AI systems to address the changing risks, in addition to applying traditional IT best practices to AI systems.](https://www.cyber.gov.au/business-government/secure-design/artificial-intelligence/deploying-ai-systems-securely)
+        - [**Engaging with artificial intelligence**  The purpose of this paper is to provide organisations with guidance on how to use artificial intelligence (AI) systems securely. The paper summarises some important threats related to AI systems and includes cybersecurity mitigation strategies to aid organisations in engaging with AI while managing risk. It provides mitigations to assist both organisations that maintain their own AI systems and organisations that use third-party AI systems.](https://www.cyber.gov.au/business-government/secure-design/artificial-intelligence/engaging-with-artificial-intelligence)
+        - [**Guidelines for secure AI system development**  This document recommends guidelines for providers of any systems that use artificial intelligence (AI), whether those systems have been created from scratch or built on top of tools and services provided by others. This document is aimed primarily at providers of AI systems who are using models hosted by an organisation, or are using external application programming interfaces (APIs).](https://www.cyber.gov.au/business-government/secure-design/artificial-intelligence/guidelines-secure-ai-system-development)
+    - Operational technology environments
+        - [An introduction to securing smart places](https://www.cyber.gov.au/business-government/secure-design/operational-technology-environments/introduction-to-securing-smart-places)
+        - [CI Fortify](https://www.cyber.gov.au/business-government/secure-design/operational-technology-environments/ci-fortify)
+        - [Creating and maintaining a definitive view of your operational technology architecture](https://www.cyber.gov.au/business-government/secure-design/operational-technology-environments/creating-and-maintaining-a-definitive-view-of-your-operational-technology-architecture)
+        - [Cyber security best practices for smart cities](https://www.cyber.gov.au/business-government/secure-design/operational-technology-environments/cyber-security-best-practices-smart-cities)
+        - [Foundations for OT cybersecurity: Asset inventory guidance for owners and operators](https://www.cyber.gov.au/business-government/secure-design/operational-technology-environments/foundations-for-ot-cybersecurity-asset-inventory-guidance)
+        - [Industrial control systems: Remote access protocol](https://www.cyber.gov.au/business-government/secure-design/operational-technology-environments/industrial-control-systems-remote-access-protocol)
+        - [Principles of operational technology cyber security](https://www.cyber.gov.au/business-government/secure-design/operational-technology-environments/principles-operational-technology-cyber-security)
+        - [Protecting industrial control systems](https://www.cyber.gov.au/business-government/secure-design/operational-technology-environments/protecting-industrial-control-systems)
+        - [Secure by Demand](https://www.cyber.gov.au/business-government/secure-design/operational-technology-environments/secure-by-demand)
+    - [Planning for post-quantum cryptography](https://www.cyber.gov.au/business-government/secure-design/planning-for-post-quantum-cryptography)
+    - [Secure by Design](biz/secure-by-design.md)
+    - Assessment and evaluation programs
+        - [Australian Information Security Evaluation Program (AISEP)](https://www.cyber.gov.au/business-government/protecting-devices-systems/assessment-evaluation-programs/australian-information-security-evaluation-program)
+        - [Critical Infrastructure Uplift Program (CI-UP)](https://www.cyber.gov.au/business-government/protecting-devices-systems/assessment-evaluation-programs/critical-infrastructure-uplift-program)
+        - [Emanation Security Industry Program](https://www.cyber.gov.au/business-government/protecting-devices-systems/assessment-evaluation-programs/emanation-security-industry-program)
+        - [High Assurance Evaluation Program](https://www.cyber.gov.au/business-government/protecting-devices-systems/assessment-evaluation-programs/high-assurance-evaluation-program)
+        - [Infosec Registered Assessors Program](biz/irap.md)
+        - [National Exercise Program](https://www.cyber.gov.au/business-government/protecting-devices-systems/assessment-evaluation-programs/national-exercise-program)
+    - Cloud computing
+        - [Blueprint for Secure Cloud](https://www.cyber.gov.au/business-government/protecting-devices-systems/cloud-computing/blueprint-secure-cloud)
+        - [Cloud assessment and authorisation](https://www.cyber.gov.au/business-government/protecting-devices-systems/cloud-computing/cloud-assessment-and-authorisation)
+        - [Cloud assessment and authorisation FAQ](https://www.cyber.gov.au/business-government/protecting-devices-systems/cloud-computing/cloud-assessment-and-authorisation-faq)
+        - [Cloud computing security for cloud service providers](https://www.cyber.gov.au/business-government/protecting-devices-systems/cloud-computing/cloud-computing-security-for-cloud-service-providers)
+        - [Cloud computing security for executives](https://www.cyber.gov.au/business-government/protecting-devices-systems/cloud-computing/cloud-computing-security-for-executives)
+        - [Cloud computing security for tenants](https://www.cyber.gov.au/business-government/protecting-devices-systems/cloud-computing/cloud-computing-security-for-tenants)
+        - [Cloud shared responsibility model: Guidance for individuals and small and medium businesses](https://www.cyber.gov.au/business-government/protecting-devices-systems/cloud-computing/cloud-shared-responsibility-model-guidance-for-individuals-and-small-and-medium-businesses)
+        - [Cloud shared responsibility model: Executive guidance](https://www.cyber.gov.au/business-government/protecting-devices-systems/cloud-computing/cloud-shared-responsibility-model-executive-guidance)
+    - Hardening systems and applications
+        - Email hardening
+            - [Detecting socially engineered messages](https://www.cyber.gov.au/business-government/protecting-devices-systems/hardening-systems-applications/email-hardening/detecting-socially-engineered-messages)
+            - [How to combat fake emails](https://www.cyber.gov.au/business-government/protecting-devices-systems/hardening-systems-applications/email-hardening/how-to-combat-fake-emails)
+            - [Malicious email mitigation strategies](https://www.cyber.gov.au/business-government/protecting-devices-systems/hardening-systems-applications/email-hardening/malicious-email-mitigation-strategies)
+            - [Marketing and filtering email service providers](https://www.cyber.gov.au/business-government/protecting-devices-systems/hardening-systems-applications/email-hardening/marketing-and-filtering-email-service-providers)
+            - [Protecting against business email compromise](https://www.cyber.gov.au/business-government/protecting-devices-systems/hardening-systems-applications/email-hardening/protecting-against-business-email-compromise)
+        - Mobility hardening
+            - [Security configuration guide: Apple iOS 14 devices](https://www.cyber.gov.au/business-government/protecting-devices-systems/hardening-systems-applications/mobility-hardening/security-configuration-guide-apple-ios-14-devices)
+            - [Security configuration guide: Samsung Galaxy S10, S20 and Note 20 devices](https://www.cyber.gov.au/business-government/protecting-devices-systems/hardening-systems-applications/mobility-hardening/security-configuration-guide-samsung-galaxy-s10-s20-and-note-20-devices)
+            - [Security configuration guide: Viasat Mobile Dynamic Defense](https://www.cyber.gov.au/business-government/protecting-devices-systems/hardening-systems-applications/mobility-hardening/security-configuration-guide-viasat-mobile-dynamic-defense)
+        - Network hardening
+            - [Defending against the malicious use of the Tor network](https://www.cyber.gov.au/business-government/protecting-devices-systems/hardening-systems-applications/network-hardening/defending-against-the-malicious-use-of-the-tor-network)
+            - [Domain Name System security for domain owners](https://www.cyber.gov.au/business-government/protecting-devices-systems/hardening-systems-applications/network-hardening/domain-name-system-security-for-domain-owners)
+            - [Domain Name System security for domain resolvers](https://www.cyber.gov.au/business-government/protecting-devices-systems/hardening-systems-applications/network-hardening/domain-name-system-security-for-domain-resolvers)
+            - [Geo-blocking in context: Realities, risks and recommendations](https://www.cyber.gov.au/business-government/protecting-devices-systems/hardening-systems-applications/network-hardening/geo-blocking-in-context-realities-risks-recommendations)
+            - [Implementing network segmentation and segregation](https://www.cyber.gov.au/business-government/protecting-devices-systems/hardening-systems-applications/network-hardening/implementing-network-segmentation-and-segregation)
+            - [Mitigations for network defence](https://www.cyber.gov.au/business-government/protecting-devices-systems/hardening-systems-applications/network-hardening/mitigations-for-network-defence)
+            - [Securing edge devices](biz/edge-devices.md)
+        - System hardening
+            - [Hardening Linux workstations and servers](https://www.cyber.gov.au/business-government/protecting-devices-systems/hardening-systems-applications/system-hardening/hardening-linux-workstations-and-servers)
+            - [Hardening Microsoft 365, Office 2021, Office 2019 and Office 2016](https://www.cyber.gov.au/business-government/protecting-devices-systems/hardening-systems-applications/system-hardening/hardening-microsoft-365-office-2021-office-2019-and-office-2016)
+            - [Hardening Microsoft Windows 10 workstations](https://www.cyber.gov.au/business-government/protecting-devices-systems/hardening-systems-applications/system-hardening/hardening-microsoft-windows-10-workstations)
+            - [Hardening Microsoft Windows 11 workstations](https://www.cyber.gov.au/business-government/protecting-devices-systems/hardening-systems-applications/system-hardening/hardening-microsoft-windows-11-workstations)
+            - [Implementing application control](https://www.cyber.gov.au/business-government/protecting-devices-systems/hardening-systems-applications/system-hardening/implementing-application-control)
+            - [Implementing multi-factor authentication](https://www.cyber.gov.au/business-government/protecting-devices-systems/hardening-systems-applications/system-hardening/implementing-multi-factor-authentication)
+            - [Microsoft Exchange Server security best practices](https://www.cyber.gov.au/business-government/protecting-devices-systems/hardening-systems-applications/system-hardening/microsoft-exchange-server-security-best-practices)
+            - [Restricting Microsoft Office macros](https://www.cyber.gov.au/business-government/protecting-devices-systems/hardening-systems-applications/system-hardening/restricting-microsoft-office-macros)
+        - Web hardening
+            - [Implementing certificates, TLS, HTTPS and opportunistic TLS](https://www.cyber.gov.au/business-government/protecting-devices-systems/hardening-systems-applications/web-hardening/implementing-certificates-tls-https-and-opportunistic-tls)
+            - [Secure your website](https://www.cyber.gov.au/business-government/protecting-devices-systems/hardening-systems-applications/web-hardening/secure-your-website)
+    - Remote working and secure mobility
+        - Remote working
+            - [Using remote desktop clients](https://www.cyber.gov.au/business-government/protecting-devices-systems/remote-working-secure-mobility/remote-working/using-remote-desktop-clients)
+            - [Web conferencing security](https://www.cyber.gov.au/business-government/protecting-devices-systems/remote-working-secure-mobility/remote-working/web-conferencing-security)
+        - Secure mobility
+            - [Bring Your Own Device for executives](https://www.cyber.gov.au/business-government/protecting-devices-systems/remote-working-secure-mobility/secure-mobility/bring-your-own-device-for-executives)
+            - [Risk management of enterprise mobility (including Bring Your Own Device)](https://www.cyber.gov.au/business-government/protecting-devices-systems/remote-working-secure-mobility/secure-mobility/risk-management-of-enterprise-mobility-including-bring-your-own-device)
+            - [Travelling with mobile devices](https://www.cyber.gov.au/business-government/protecting-devices-systems/remote-working-secure-mobility/secure-mobility/travelling-with-mobile-devices)
+    - Legacy IT management
+        - [End of support for Microsoft Windows and Microsoft Windows server](https://www.cyber.gov.au/business-government/protecting-devices-systems/legacy-it-management/end-of-support-for-microsoft-windows-and-microsoft-windows-server)
+        - [Managing the risks of legacy IT: Executive guidance](https://www.cyber.gov.au/business-government/protecting-devices-systems/legacy-it-management/managing-the-risks-of-legacy-it-executive-guidance)
+        - [Managing the risks of legacy IT: Practitioner guidance](https://www.cyber.gov.au/business-government/protecting-devices-systems/legacy-it-management/managing-the-risks-of-legacy-it-practitioner-guidance)
+    - System administration
+        - [Patching applications and operating systems](https://www.cyber.gov.au/business-government/protecting-devices-systems/system-administration/patching-applications-and-operating-systems)
+        - [Restricting administrative privileges](https://www.cyber.gov.au/business-government/protecting-devices-systems/system-administration/restricting-administrative-privileges)
+        - [Secure administration](https://www.cyber.gov.au/business-government/protecting-devices-systems/system-administration/secure-administration)
+        - [Securing PowerShell in the enterprise](https://www.cyber.gov.au/business-government/protecting-devices-systems/system-administration/securing-powershell-in-the-enterprise)
+    - Cyber security incident response
+        - [Cyber incident management arrangements for Australian governments](https://www.cyber.gov.au/business-government/detecting-responding-to-threats/cyber-security-incident-response/cyber-incident-management-arrangements-australian-governments)
+        - [Cyber security incident response planning: Executive guidance](https://www.cyber.gov.au/business-government/detecting-responding-to-threats/cyber-security-incident-response/cyber-security-incident-response-planning-executive-guidance)
+        - [Cyber security incident response planning: Practitioner guidance](https://www.cyber.gov.au/business-government/detecting-responding-to-threats/cyber-security-incident-response/cyber-security-incident-response-planning-practitioner-guidance)
+        - [Preparing for and responding to denial-of-service attacks](https://www.cyber.gov.au/business-government/detecting-responding-to-threats/cyber-security-incident-response/preparing-for-and-responding-to-denial-of-service-attacks)
+    - [Detecting and mitigating Active Directory compromises](https://www.cyber.gov.au/business-government/detecting-responding-to-threats/detecting-and-mitigating-active-directory-compromises)
+    - Event logging
+        - [Best practices for event logging and threat detection](https://www.cyber.gov.au/business-government/detecting-responding-to-threats/event-logging/best-practices-for-event-logging-and-threat-detection)
+        - [Implementing SIEM and SOAR platforms](biz/siem-soar.md)
+        - [Windows event logging and forwarding](https://www.cyber.gov.au/business-government/detecting-responding-to-threats/event-logging/windows-event-logging-and-forwarding)
+    - Vulnerability planning
+        - [Planning for critical vulnerabilities: What the board of directors needs to know](https://www.cyber.gov.au/business-government/detecting-responding-to-threats/vulnerability-planning/planning-for-critical-vulnerabilities-what-the-board-of-directors-needs-to-know)
+        - [Vulnerability disclosure programs explained](https://www.cyber.gov.au/business-government/detecting-responding-to-threats/vulnerability-planning/vulnerability-disclosure-programs-explained)
+    - Small business hub
+        - Attachments
+            - [Small business cyber security guide (January 2025) PDF (2.2MB)](https://www.cyber.gov.au/sites/default/files/2025-03/Small%20business%20cybersecurity%20guide%20%28January%202025%29.pdf)
+            - [Small business cyber security checklist (June 2023) PDF (313KB)](https://www.cyber.gov.au/sites/default/files/2025-03/Small%20business%20cyber%20security%20checklist%20%28June%202023%29.pdf)
+        - Protect your small business: 'How to' guides
+            - [Apple PDF (392Kb)](https://www.cyber.gov.au/sites/default/files/2025-07/Protect%20yourself%20small%20business%20-%20A%20how%20to%20guide%20for%20Apple.pdf)
+            - [Google PDF (386Kb)](https://www.cyber.gov.au/sites/default/files/2025-07/Protect%20yourself%20small%20business%20-%20A%20how%20to%20guide%20for%20Google.pdf)
+            - [Microsoft PDF (394Kb)](https://www.cyber.gov.au/sites/default/files/2025-07/Protect%20yourself%20small%20business%20-%20A%20how%20to%20guide%20for%20Microsoft.pdf)
+        - Resources for small businesses
+            - Cloud Security Guide: ChromeOS
+                - [Small business Google Chromebook and ChromOS security guide](https://www.cyber.gov.au/business-government/small-business-cyber-security/small-business-hub/small-business-cloud-security-guides/google-chromebook-chromos-security-guide)
+            - Cloud Security Guide: Microsoft 365
+                - [Small business cloud security guides: Executive overview](https://www.cyber.gov.au/business-government/small-business-cyber-security/small-business-hub/small-business-cloud-security-guides/executive-overview)
+                - [Small business cloud security guides: Introduction](https://www.cyber.gov.au/business-government/small-business-cyber-security/small-business-hub/small-business-cloud-security-guides/introduction)
+                - [Technical example: Multi-factor authentication](https://www.cyber.gov.au/business-government/small-business-cyber-security/small-business-hub/small-business-cloud-security-guides/technical-example-multi-factor-authentication)
+                - [Technical example: Restrict administrative privileges](https://www.cyber.gov.au/business-government/small-business-cyber-security/small-business-hub/small-business-cloud-security-guides/technical-example-restrict-administrative-privileges)
+                - [Technical example: Regular backups](https://www.cyber.gov.au/business-government/small-business-cyber-security/small-business-hub/small-business-cloud-security-guides/technical-example-regular-backups)
+                - [Technical example: Patch operating systems](https://www.cyber.gov.au/business-government/small-business-cyber-security/small-business-hub/small-business-cloud-security-guides/technical-example-patch-operating-systems)
+                - [Technical example: Patch applications](https://www.cyber.gov.au/business-government/small-business-cyber-security/small-business-hub/small-business-cloud-security-guides/technical-example-patch-applications)
+                - [Technical example: Configure macro settings](https://www.cyber.gov.au/business-government/small-business-cyber-security/small-business-hub/small-business-cloud-security-guides/technical-example-configure-macro-settings)
+                - [Technical example: Application control](https://www.cyber.gov.au/business-government/small-business-cyber-security/small-business-hub/small-business-cloud-security-guides/technical-example-application-control)
+                - [Technical example: User application hardening](https://www.cyber.gov.au/business-government/small-business-cyber-security/small-business-hub/small-business-cloud-security-guides/technical-example-user-application-hardening)
+            - [Small business cyber security guide](https://www.cyber.gov.au/business-government/small-business-cyber-security/small-business-hub/small-business-cyber-security-guide)
+            - [First Nations business resources](https://www.cyber.gov.au/business-government/small-business-cyber-security/small-business-hub/first-nations-business-resources)
+            - [Business Continuity in a Box](https://www.cyber.gov.au/business-government/small-business-cyber-security/small-business-hub/business-continuity-in-a-box)
+    - [Protecting your staff](biz/protecting-your-staff.md)
+    - [Securing customer personal data](https://www.cyber.gov.au/business-government/small-business-cyber-security/securing-customer-personal-data)
+    - Managing cyber supply chains
+        - [A Shared Vision of Software Bill of Materials (SBOM) for Cybersecurity](https://www.cyber.gov.au/business-government/supplier-cyber-risk-management/managing-cyber-supply-chains/shared-vision-of-software-bill-of-materials-cybersecurity)
+        - [Cyber supply chain risk management](https://www.cyber.gov.au/business-government/supplier-cyber-risk-management/managing-cyber-supply-chains/cyber-supply-chain-risk-management)
+        - [Identifying cyber supply chain risks](https://www.cyber.gov.au/business-government/supplier-cyber-risk-management/managing-cyber-supply-chains/identifying-cyber-supply-chain-risks)
+    - Managed service providers
+        - [How to manage your security when engaging a managed service provider](https://www.cyber.gov.au/business-government/supplier-cyber-risk-management/managed-service-providers/how-to-manage-your-security-when-engaging-a-managed-service-provider)
+        - [Managed service providers: How to manage risk to customer networks](https://www.cyber.gov.au/business-government/supplier-cyber-risk-management/managed-service-providers/managed-service-providers-how-manage-risk-customer-networks)
+        - [Questions to ask managed service providers](https://www.cyber.gov.au/business-government/supplier-cyber-risk-management/managed-service-providers/questions-to-ask-managed-service-providers)
+    - Cyber security for business leaders
+        - [Cyber security priorities for boards of directors 2025-26](https://www.cyber.gov.au/business-government/protecting-business-leaders/cyber-security-for-business-leaders/cyber-security-priorities-for-boards-of-directors-2025-26)
+        - [Cyber skills framework](https://www.cyber.gov.au/business-government/protecting-business-leaders/cyber-security-for-business-leaders/cyber-skills-framework)
+        - [Mergers, acquisitions and Machinery of Government changes](https://www.cyber.gov.au/business-government/protecting-business-leaders/cyber-security-for-business-leaders/mergers-acquisitions-and-machinery-of-government-changes)
+        - [Practical cyber security tips for business leaders](https://www.cyber.gov.au/business-government/protecting-business-leaders/cyber-security-for-business-leaders/practical-cyber-security-tips-for-business-leaders)
+        - [Ten things to know about data security](https://www.cyber.gov.au/business-government/protecting-business-leaders/cyber-security-for-business-leaders/ten-things-to-know-about-data-security)
+    - [Security tips for social media and messaging apps](https://www.cyber.gov.au/business-government/protecting-business-leaders/security-tips-for-social-media-and-messaging-apps)
+    - [Exercise in a Box](https://www.cyber.gov.au/business-government/exercise-in-a-box)
