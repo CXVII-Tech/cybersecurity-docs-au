@@ -5,9 +5,7 @@ Last updated: 31 Oct 2025
 
 Source documentation listed according to [cyber.gov.au](https://www.cyber.gov.au/) sitemap structure:
 - Home
-    - [Protect yourself from scams](https://www.cyber.gov.au/scams)
     - [Cyber health check tool](https://www.cyber.gov.au/cyberhealthcheck)
-    - [Cyber Security Awareness Month 2025](https://www.cyber.gov.au/cam2025)
     - [Ransomware Playbook](https://www.cyber.gov.au/ransomware-playbook)
     - [Become an ASD partner](https://www.cyber.gov.au/become-asd-partner)
     - [Top tips for cyber security poster (A4) PDF (463KB)](https://www.cyber.gov.au//sites/default/files/2023-07/2023_ACSC_Top%20tips%20for%20cyber%20security%20poster%20A4.pdf)
@@ -26,13 +24,7 @@ Source documentation listed according to [cyber.gov.au](https://www.cyber.gov.au
         - [News](https://www.cyber.gov.au/about-us/view-all-content/news)
 - Learn the basics
     - Small business
-        - [Small business cyber security guide (January 2025) PDF (2.2MB)](https://www.cyber.gov.au//sites/default/files/2025-03/Small%20business%20cybersecurity%20guide%20%28January%202025%29.pdf)
-        - [Small business cyber security checklist (June 2023) PDF (313KB)](https://www.cyber.gov.au//sites/default/files/2025-03/Small%20business%20cyber%20security%20checklist%20%28June%202023%29.pdf)
         - [Educational pack for small businesses](https://www.cyber.gov.au/learn-basics/explore-basics/small-business/educational-pack)
-    - Seniors
-        - [How to Use the Internet Securely: A Guide for Seniors PDF (1.69MB)](https://www.cyber.gov.au//sites/default/files/2025-06/2025_ACSC_How_to_us_the_internet_securely_A_guide_for_seniors.pdf)
-        - [A Guide for Seniors - Summary Checklist PDF (401KB)](https://www.cyber.gov.au//sites/default/files/2023-06/ACSC-How-to-Use-the-Internet-Securely-Seniors-Summary-Checklist.pdf)
-        - [Educational pack for seniors](https://www.cyber.gov.au/learn-basics/explore-basics/seniors/educational-pack)
     - [Glossary](https://www.cyber.gov.au/learn-basics/view-resources/glossary)
     - [Resources library](https://www.cyber.gov.au/learn-basics/view-resources/resources-library)
 - Protect yourself
